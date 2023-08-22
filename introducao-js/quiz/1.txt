@@ -1,15 +1,15 @@
-1 -   O que é uma string?
+1 - O que é uma string?
 
 R- É um tipo de dado usado para os textos e também a forma como chamamos os etxtos em si.
 
-2 - 2/10.   Qual é o resultado da expressão "Javascript".length + 2 * 8
+2 - Qual é o resultado da expressão "Javascript".length + 2 * 8
 
 
-R - 26 ----> 10 + 2*8 = 
+R - 26 ----> 10 + 2*8 = 26
 
-3 -   O que faz o operador ++ ?
+3 - O que faz o operador ++ ?
 
-R- Incrementa 1 unidade a um avlor numérico.
+R- Incrementa 1 unidade a um valor numérico.
 
 4 - Qual a forma correta de escrever um comentário no javascript?
 

@@ -1,0 +1,54 @@
+OPERADORES LÓGICOS
+
+O Javascript possui 3 operadores lógicos:
+'E', 'ou' e 'não'.
+
+1. E ---> OPERADOR ---> &&
+
+true && true === true 
+true && false === false 
+false && true === false 
+false && false === false 
+
+Obs.: Para ser verdadeiro, todas deverão ser verdadeiras.
+
+2. Ou ---> OPERADOR ---> ||
+
+true || true === true 
+true || false === true 
+false || true === true 
+false || false === false 
+
+Obs.: Para ser false, todas deverão ser falsas.
+
+3. Não ---> OPERADOR ---> !
+
+!true === false
+!flase === true
+
+Obs.: Inverte os valores. O que era falso vira verdadeiro e vice-versa.
+
+----- console -----
+
+9 < 5
+
+< false
+
+!9 < 5
+
+< true
+
+Bônus - OPERADOR TERNÁRIO ---> OPERADOR ---> ? e :
+
+----- console -----
+
+> const resultado = (6 ===6) ? 'ok' : 'errado'
+undefined
+> resultado
+'ok'
+
+Explicação: Se 6 for igual (?) a 6 quanto ao tipo, retorne 'ok'.
+Se não for (:), retorne 'errado'.  
+
+
+

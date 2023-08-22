@@ -1,0 +1,61 @@
+OPERADORES & EXPRESSÕES
+
+ARITMÉTICOS -> + - * / %
+
+Operadores e modo de prevalência na matemática.
+
++ soma
+- subtração
+* multiplicação
+/ divisão
+% resto da divisão
+
+ATRIBUIÇÃO -> = += -= *= /= 
+
+= 
+
+Ex.: let nome = 'quirino'
+---> o valor de nome é quirino
+
++= (soma)
+
+------ console ------
+
+
+Ex.: let a = 5
+a += 5
+< 10
+
+---> acrescenta o valor ao número existente
+
+------ console ------
+
+
+-= (subtração)
+
+Ex.: let a = 5
+a -= 2
+< 3
+
+o mesmo vale para os outros operadores.
+
+CONCATENAÇÃO
+
+Obs.: String + String = String
+Number + String = String
+Number + Number = Number 
+
+
+ENCADEAMENTO -> (.)
+
+Ex.: console.log -> (através do ponto encadeia uma função/objeto no outro)
+
+INCREMENTO & DECREMENTO  ->   ++ & --
+
+Soma ou subtrai o valor de 1
+
+------ console -----
+
+Ex.: a = 3          
+++3
+< 4 

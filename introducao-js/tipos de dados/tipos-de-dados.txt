@@ -1,0 +1,20 @@
+DADOS PRIMITIVOS 
+
+1. Number & Bigint: Tipos numéricos,
+
+2. String: Caracteres string entre aspas.
+
+3. Boolean: True & False
+
+4. Null & Undefined:
+
+a - Null: Valo nulo, valor vazio.
+b - Undefined: Valor não definido.
+
+OUTROS DADOS:
+
+Objetos & Funções:
+
+a - Objetos: Estrutura/conjunto de diversas informações, permitindo armazenar vários valores diferentes.
+a - Funções: Tarefas em um bloco de código a ser executado.
+

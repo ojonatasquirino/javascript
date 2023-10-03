@@ -43,9 +43,9 @@ NOMEAÇÃO DE VARIÁVEIS
 
 Nomes significativos para as variáveis - ligações
 
-Ex.: let nome = 'quirino' (forma correta)
+Ex.: let nome = 'quirino' (forma correta de nomear variável)
 
-Ex.: let x = 'quirino' (forma incorreta)
+Ex.: let x = 'quirino' (forma incorreta de nomear variável)
 
 obs.: Não é possível declarar duas variáveis com o mesmo nome.
 

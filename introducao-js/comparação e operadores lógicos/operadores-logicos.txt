@@ -12,6 +12,9 @@ false && false === false
 
 Obs.: Para ser verdadeiro, todas deverão ser verdadeiras.
 
+Obs2.: O operador AND tem uma precedência maior que o operador OR,
+o que significa que o operador && é executado antes do operador ||.
+
 2. Ou ---> OPERADOR ---> ||
 
 true || true === true 

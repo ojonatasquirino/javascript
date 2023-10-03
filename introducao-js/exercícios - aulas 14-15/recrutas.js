@@ -4,7 +4,7 @@ const campoDeEstudo = prompt("Qual o seu campo de estudo?");
 const anoDeNascimento = prompt("Qual seu ano de nascimento?");
 
 alert(
-  "Recruta cadstrado com sucesso!\n" +
+  "Recruta cadastrado com sucesso!\n" +
     "\nNome completo: " +
     firstName +
     " " +
@@ -14,3 +14,5 @@ alert(
     "\nIdade: " +
     (2023 - anoDeNascimento)
 );
+
+// o ----> \n serve para pular uma linha dentro da string. 

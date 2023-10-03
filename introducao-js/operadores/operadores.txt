@@ -2,7 +2,7 @@ OPERADORES & EXPRESSÕES
 
 ARITMÉTICOS -> + - * / %
 
-Operadores e modo de prevalência na matemática.
+Operadores e modo de prevalência na matemática (por agrupamento).
 
 + soma
 - subtração

@@ -1,3 +1,5 @@
-let y = 10
-console.log(name)
-console.log(y)
+let y = 10;
+let pessoa = 'vic';
+
+console.log(pessoa);
+console.log(y);

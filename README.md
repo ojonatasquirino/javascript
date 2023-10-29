@@ -1,5 +1,5 @@
 # estudos-js
-Este repositório é a documentação da minha evolução nos estudos com a linguagem JavaScript. Aqui estão as minhas anotações, códigos (nem sempre limpos, pois são estudos sequenciais para fins didáticos) e aplicações. Algumas pastas terão arquivos .txt para anotações e comentários necessários.
+Este repositório é a documentação da minha evolução nos estudos com a linguagem JavaScript. Aqui estão as minhas anotações, códigos (sequenciais para fins didáticos) e aplicações. Algumas pastas terão arquivos .txt para anotações e comentários necessários. Projetos que fiz com base nos conhecimentos guardados neste repositório serão redirecionados para seus respectivos arquivos. Me acompanhe nessa jornada!
 ## Ambiente e ferramentas de estudo
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)

@@ -12,4 +12,5 @@ Este repositório é a documentação da minha evolução nos estudos com a ling
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-## Prof. Isaque Pontes
+## One Bit Code
+#### Prof. Isaque Pontes

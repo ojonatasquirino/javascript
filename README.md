@@ -10,6 +10,7 @@ Este repositório é a documentação da minha evolução nos estudos com a ling
 ![VERCEL](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=fff2)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
+![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=b2b2b2)
 
 
 ## tecnologias de aprendizado

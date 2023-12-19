@@ -13,5 +13,6 @@ Este repositório é a documentação da minha evolução nos estudos com a ling
 
 
 ## tecnologia de aprendizado
+
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=
 for-the-badge&logo=javascript&logoColor=yellow)

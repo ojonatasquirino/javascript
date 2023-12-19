@@ -13,5 +13,5 @@ Este repositório é a documentação da minha evolução nos estudos com a ling
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=b2b2b2)
 
 
-## tecnologias de aprendizado
+## tecnologia de aprendizado
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)

@@ -1,5 +1,5 @@
 <h1 align='center'> JavaScript </h1> 
-Este repositório é a documentação da minha evolução nos estudos com a linguagem JavaScript. Aqui estão as minhas anotações, códigos (sequenciais para fins didáticos) e aplicações. Projetos que fiz com base nos conhecimentos guardados neste repositório serão redirecionados para seus respectivos arquivos.
+Documentação dos meus estudos em JavaScript. Aqui contém anotações, scripts (para fins didáticos) e aplicações da linguagem.
 
 ## ambiente e ferramentas de estudo
 

@@ -13,8 +13,8 @@ Documentação dos meus estudos em JavaScript. Aqui contém anotações, scripts
 
 
 ## tecnologia de aprendizado
-![JAVASCRIPT](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
-![ts](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![ts](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ## documentação e cursos utilzados
 
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

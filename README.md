@@ -88,7 +88,7 @@ npm install
 
 ou
 
-yarn install
+yarn install 
 ```
 
 Inicie o projeto com:

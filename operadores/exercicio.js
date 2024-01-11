@@ -15,5 +15,5 @@ console.log(++totalNum);
 // Como dividir o peso por 2?
 var numero = +"80" / 2;
 var unidade = "kg ";
-var peso  = numero + unidade; // NaN (Not a Number)
+var peso  = numero + unidade; // NaN (not a number)
 console.log(peso);

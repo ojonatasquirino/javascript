@@ -47,10 +47,29 @@ Todo resto é truthy */
 10 <= 10; // true
 10 >= 11; // false
 
-10 == "10"; // true — o == não faz comparação estrita qaunto ao tipo. 
+10 == "10"; // true — o == não faz comparação estrita qaunto ao tipo.
 10 == 10; // true
 10 === "10"; // false — faz comparaçao estrita quanto ao tipo.
 10 === 10; // true
-'10' !== 10; // true 
-'10' != 10; // false — não faz comparaçao estrita quanto ao tipo.
+"10" !== 10; // true
+"10" != 10; // false — não faz comparaçao estrita quanto ao tipo.
 
+// operadores lógicos — && (e)
+
+true && true; // true
+true && false; // false
+false && true; // false
+"Gato" && "Cão"; // 'Cão'
+5 - 5 && 5 + 5; // 0
+"Gato" && false; // false
+
+// operadores lógicos —  || (ou)
+
+true || true; // true
+true || false; // true
+false || true; // true
+"Gato" || "Cão"; // 'Gato'
+5 - 5 || 5 + 5; // 10
+"Gato" || false; // Gato
+
+// retorna o primeiro valor true que encontrar

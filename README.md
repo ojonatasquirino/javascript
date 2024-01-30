@@ -35,7 +35,7 @@ Ambiente de estudo focado na exploração avançada de conceitos como programaç
 # descrição detalhada <a name="id01.01"></a>
 
 
-Aqui pretendo explorar a sintaxe e funcionalidades principais do JavaScript, mas também aprofundar-me em conceitos mais avançados, como closures, promessas, manipulação de eventos, padrões de design UI/UX e assíncronismo. Para isso, estou desenvolvendo projetos práticos que me permitem aplicar esses conceitos em contextos reais. Um deles é o <a href='https://github.com/ojonatasquirino/bikecraft'> BikeCraft </a>.
+Aqui pretendo explorar a sintaxe e funcionalidades principais do JavaScript, mas também aprofundar-me em conceitos mais avançados, como closures, promessas, manipulação de eventos, padrões de design UI/UX e assíncronismo. Para isso, estou desenvolvendo projetos práticos que me permitem aplicar esses conceitos em contextos reais.
 
 Ao explorar tópicos como programação funcional, orientação a objetos e boas práticas de desenvolvimento, busco fortalecer não apenas a capacidade de escrever código, mas também a habilidade de criar soluções robustas e escaláveis.
 

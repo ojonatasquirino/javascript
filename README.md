@@ -15,7 +15,7 @@
 
 </p>
 
-# sumário 
+# sumário
 
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
@@ -25,7 +25,11 @@
 - [clonagem e instalação](#id06)
 - [autoria](#id07)
 
+## Bônus: Ebook •  Eloquent JavaScript (Leitura e Síntese)
 
+Além dos meus estudos em cima da documentação oficial do JavaScript e de outros materias didáticos, colocarei uma síntese da minha leitura por capítulo desse livro/e-book que saiu sua 4ª edição recentemente. 
+
+Acesso o e-book gratuitamente: **<a href='https://eloquentjavascript.net/'>Eloquent JavaScript — Marijn Haverbeke</a>.**
 
 # objetivos <a name="id01"></a>
 

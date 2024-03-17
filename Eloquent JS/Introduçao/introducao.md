@@ -1,5 +1,5 @@
 
-  #  Introdução  - O poderoso e eloquente JavaScript
+  #  Introdução
 
 Este livro aborda o ensino da programação de computadores, destacando que, apesar da ubiquidade dos computadores, sua complexidade pode tornar desafiador fazer com que realizem tarefas específicas ou únicas. Ele introduz a programação como uma solução para esses desafios, descrevendo-a como a criação de instruções precisas para o computador executar. A programação, apesar de potencialmente tediosa, é apresentada como recompensadora, permitindo automação e resolução de problemas complexos de maneira eficiente.
 

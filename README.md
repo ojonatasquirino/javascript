@@ -25,7 +25,7 @@
 - [clonagem e instalação](#id06)
 - [autoria](#id07)
 
-## Bônus: Ebook •  Eloquent JavaScript (Leitura e Síntese)
+## Eloquent JavaScript (Marijn Haverbeke)
 
 Além dos meus estudos em cima da documentação oficial do JavaScript e de outros materias didáticos, colocarei uma síntese da minha leitura por capítulo desse livro/e-book que saiu sua 4ª edição recentemente. 
 

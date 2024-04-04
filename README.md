@@ -27,7 +27,7 @@
 
 ## Eloquent JavaScript (Marijn Haverbeke)
 
-Além dos meus estudos em cima da documentação oficial do JavaScript e de outros materias didáticos, colocarei uma síntese da minha leitura por capítulo desse livro/e-book que saiu sua 4ª edição recentemente. 
+Além dos meus estudos em cima da documentação oficial do JavaScript e de outros materias didáticos, colocarei uma síntese da minha leitura por capítulo desse livro/e-book que saiu sua 4ª edição recentemente. As outras edições não estão obsoletas, mas de uma edição para outra, passam-se anos e o JS está sempre em desenvolvimento e aprimoramento das suas funcionalidades.
 
 Acesse o e-book gratuitamente: **<a href='https://eloquentjavascript.net/'>Eloquent JavaScript — Marijn Haverbeke</a>.**
 

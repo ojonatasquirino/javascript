@@ -62,7 +62,8 @@ Este repositório servirá como um registro do meu progresso e insights obtidos 
 <div  align='center'> 
 
  [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=993399)
+![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
+![curso](https://img.shields.io/badge/eloquent_javascript-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
@@ -102,9 +103,9 @@ git clone https://github.com/ojonatasquirino/estudos-js.git
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://twitter.com/ojonatasquirino)
 
-[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=orange)](https://bit.ly/linkquirino)
+[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
 [![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
 [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>

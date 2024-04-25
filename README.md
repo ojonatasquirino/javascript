@@ -63,7 +63,7 @@ Este repositório servirá como um registro do meu progresso e insights obtidos 
 
  [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
-![curso](https://img.shields.io/badge/eloquent_javascript-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)
+[![curso](https://img.shields.io/badge/eloquent_javascript-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://eloquentjavascript.net/)
 </div>
 
 # ambiente de codificação <a name="id05"></a>

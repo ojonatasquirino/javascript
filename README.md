@@ -29,7 +29,7 @@
 
 Além dos meus estudos em cima da documentação oficial do JavaScript e de outros materias didáticos, colocarei uma síntese da minha leitura por capítulo desse livro/e-book que saiu sua 4ª edição recentemente. As outras edições não estão obsoletas, mas de uma edição para outra, passam-se anos e o JS está sempre em desenvolvimento e aprimoramento das suas funcionalidades.
 
-Acesse o e-book gratuitamente: **<a href='https://eloquentjavascript.net/'>Eloquent JavaScript — Marijn Haverbeke</a>.**
+Acesse o e-book gratuitamente: **<a href='https://eloquentjavascript.net/'>Eloquent JavaScript • Marijn Haverbeke</a>.**
 
 # objetivos <a name="id01"></a>
 
@@ -38,8 +38,7 @@ Ambiente de estudo focado na exploração avançada de conceitos como programaç
 
 # descrição detalhada <a name="id02"></a>
 
-
-Aqui pretendo explorar a sintaxe e funcionalidades principais do JavaScript, mas também aprofundar-me em conceitos mais avançados, como closures, promessas, manipulação de eventos, padrões de design UI/UX e assíncronismo. Para isso, estou desenvolvendo projetos práticos que me permitem aplicar esses conceitos em contextos reais.
+Aqui pretendo explorar a sintaxe e funcionalidades principais do JavaScript, mas também me aprofundar em conceitos mais avançados, como closures, promessas, manipulação de eventos, padrões de design UI/UX e assíncronismo. Para isso, estou desenvolvendo projetos práticos que me permitem aplicar esses conceitos em contextos reais que estão em outros repositórios aqui no <a href='https://www.github.com/ojonatasquirino'>meu perfil do github</a>.
 
 Ao explorar tópicos como programação funcional, orientação a objetos e boas práticas de desenvolvimento, busco fortalecer não apenas a capacidade de escrever código, mas também a habilidade de criar soluções robustas e escaláveis.
 

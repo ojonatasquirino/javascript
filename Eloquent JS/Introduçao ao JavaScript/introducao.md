@@ -21,5 +21,5 @@ O autor enfatiza a importância das linguagens de programação, meios artificia
 
 Além de introduzir o JavaScript, o livro aborda conceitos algorítimicos de programação, destacando o processo desafiador que envolve lidar com complexidades e resolução de problemas.
 
-O JavaScript oferece flexibilidade e potencial para inovação, aqui vale um destaque da sua evolução contínua e sua importância em aplicações modernas da web. Ao fornecer uma visão detalhada do JavaScript e da programação em geral, o autor visa equipar os leitores com as ferramentas necessárias para explorar o potencial criativo da programação.
+O JavaScript oferece flexibilidade e potencial para inovação, aqui vale um destaque da sua evolução contínua e sua importância em aplicações modernas da web. Ao fornecer uma visão detalhada do JavaScript e da programação em geral (client e server side), o autor visa equipar os leitores com as ferramentas necessárias para explorar o potencial criativo da programação.
 

@@ -1,5 +1,5 @@
 // Declare uma variável com o seu nome
-var nome = "Quirino";
+var nome = "quirino";
 // Declare uma variável com sua idade
 var idade = 22;
 // Declare uma variável com sua comida favorita e não atribuir valor
@@ -10,4 +10,4 @@ var comidaFavotita = "frango";
 var time, professor, curso, endereco, rua, cidade;
 // Console
 console.log(nome, idade, comidaFavotita, rua);
-// retunn ---> Quirino 22 frango undefined
+// return ---> Quirino 22 frango undefined

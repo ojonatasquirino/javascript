@@ -6,7 +6,7 @@ var possuiFaculdade = true;
 
 console.log(nome, idade, possuiFaculdade);
 
-// evitam repetições
+// evitam repetições • DRY (Don't repeat yourself)
 
 var preco = 25;
 var totalComprado = 5;
@@ -17,7 +17,7 @@ console.log(totalPreco);
 // utiliza-se de vírgula (,) para criar mais uma variável sem repetir a palavra chave.
 
 var sobrenome = "quirino",
-  cidade = "Salvador";
+    cidade = "Salvador";
 
 console.log(sobrenome, cidade);
 
@@ -26,3 +26,12 @@ console.log(sobrenome, cidade);
 var semDefinir;
 console.log(semDefinir);
 // return ---> undefined
+
+
+/* nomes de variáveis 
+
+1. podem começar com $, _ ou letras. podem conter números, mas não inciar com eles.
+2. Case Sentive — 'nome' é diferente de 'Nome'.
+3. Camel Case — É comum utilizar assim: 'abrirModal'
+
+*/

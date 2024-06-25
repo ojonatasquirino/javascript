@@ -25,12 +25,6 @@
 - [clonagem e instalação](#id05)
 - [autoria](#id06)
 
-## Eloquent JavaScript (Marijn Haverbeke)
-
-Além dos meus estudos em cima da documentação oficial do JavaScript e de outros materias didáticos, estou fazendo uma síntese da minha leitura por capítulo desse livro/e-book que saiu sua 4ª edição recentemente. As outras edições não estão obsoletas, mas de uma edição para outra, passam-se anos e o JS está sempre em desenvolvimento e aprimoramento das suas funcionalidades.
-
-Acesse o e-book gratuitamente: **<a href='https://eloquentjavascript.net/'>Eloquent JavaScript • Marijn Haverbeke</a>.**
-
 # objetivos <a name="id01"></a>
 
 Ambiente de estudo focado na exploração avançada de conceitos como programação funcional, assincronicidade, closures e padrões de design. Projetos práticos são utilizados para a aplicação direta desses conceitos, visando um domínio mais profundo da linguagem para desenvolvimento web e aplicações dinâmicas.

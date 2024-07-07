@@ -37,7 +37,16 @@ if (Null)
 if (undefined)
 if('')
 
-Todo resto é truthy */
+Todo resto é truthy
+
+Truthy
+
+if(true)
+if(2)
+if (' ') - espaçado
+if(-5)
+if({}) - objeto
+*/
 
 // os operadores de comparação — retornam boolenao
 

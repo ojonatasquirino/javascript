@@ -61,7 +61,7 @@ Este repositório é dividido em pastas por tópicos, cada uma abordando uma par
 
 ---
 
-# Clonagem e instalação <a name="id02"></a>
+# clonagem e instalação <a name="id02"></a>
 
 Clone este repositório em sua máquina local com o comando:
 

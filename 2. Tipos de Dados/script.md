@@ -4,7 +4,7 @@
 
 Em JavaScript, os tipos de dados definem **a natureza do valor** que uma variável armazena. Eles podem ser **primitivos** ou **estruturados** (objetos).
 
-JS é uma linguagem **dinamicamente tipada**, ou seja, uma variável pode mudar de tipo em tempo de execução.
+JavaScript é uma linguagem **dinamicamente tipada**, ou seja, uma variável pode mudar de tipo em tempo de execução.
 
 ---
 

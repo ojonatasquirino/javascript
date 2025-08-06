@@ -29,34 +29,34 @@ Este repositório é dividido em pastas por tópicos, cada uma abordando uma par
 
 ### estrutura:
 
-1. **[1. Variáveis](./1.%20Variáveis/script.md)**  
+1. **[Variáveis](./1.%20Variáveis/script.md)**  
    Uso de `var`, `let`, `const`, escopos, hoisting, práticas modernas e exercícios aplicados.
 
-2. **[2. Tipos de Dados](./2.%20Tipos%20de%20Dados/tipos.js)**  
+2. **[Tipos de Dados](./2.%20Tipos%20de%20Dados/tipos.js)**  
    Tipos primitivos, dinamicidade do JS, typeof, valores falsy/truthy.
 
-3. **[3. Booleanos e Comparações](./3.%20Booleanos/booleanos.js)**  
+3. **[Booleanos e Comparações](./3.%20Booleanos/booleanos.js)**  
    Comparações (`==`, `===`), operadores lógicos, coerção, negação.
 
-4. **[4. Operadores](./4.%20Operadores/operadores.js)**  
+4. **[Operadores](./4.%20Operadores/operadores.js)**  
    Operadores aritméticos, relacionais, lógicos, ternário e incrementais.
 
-5. **[5. Funções](./5.%20Funções/funcoes.js)**  
+5. **[Funções](./5.%20Funções/funcoes.js)**  
    Declaração, expressões, arrow functions, parâmetros, retornos.
 
-6. **[6. Controle de Fluxo](./6.%20Controle%20de%20Fluxo/controle.js)**  
+6. **[Controle de Fluxo](./6.%20Controle%20de%20Fluxo/controle.js)**  
    `if/else`, `switch`, `for`, `while`, `break`, `continue`.
 
-7. **[7. Arrays](./7.%20Arrays/arrays.js)**  
+7. **[Arrays](./7.%20Arrays/arrays.js)**  
    Métodos comuns (`push`, `pop`, `map`, `filter`, etc.), percursos e manipulação.
 
-8. **[8. Objetos](./8.%20Objetos/objetos.js)**  
+8. **[Objetos](./8.%20Objetos/objetos.js)**  
    Criação, acesso, métodos, iteração com `for...in`, `Object.keys`.
 
-9. **[9. Assíncrono](./9.%20Assincrono/assincrono.js)**  
+9. **[Assíncrono](./9.%20Assincrono/assincrono.js)**  
    `setTimeout`, `Promise`, `async/await`, `fetch`.
 
-10. **[10. Módulos e Organização](./10.%20Modulos/modulos.js)**  
+10. **[Módulos e Organização](./10.%20Modulos/modulos.js)**  
     `import`, `export`, modularização com ESModules.
 
 ---

@@ -1,25 +1,42 @@
-// Qual o resultado da seguinte expressão?
-var total = 10 + (5 * 2) / 2 + 20;
-console.log(total); // total = 35
+// 1. Some 50 + 50 e armazene o resultado
+var resultado = 50 + 50;
+console.log(resultado); // 100
 
-// Crie duas expressões que retornam NaN
-var nome = "vic";
-var idade = 23;
-var soma =  nome + idade
-var divisao = nome / idade;
-console.log(soma); // NaN
-console.log(divisao); // NaN
+// 2. Subtraia 100 de 250
+var diferenca = 250 - 100;
+console.log(diferenca); // 150
 
-// Some a String '200' com o número 50 e retorne 250
-var soma = +"200" + 50;
-console.log(soma); // soma = 250, pois o '+' na frente da string '200' faz a conversão para número. 
+// 3. Multiplique 10 por 5
+var produto = 10 * 5;
+console.log(produto); // 50
 
-// Incremente o número 5 e retorne o seu valor incrementado
-var totalNum = 5;
-console.log(++totalNum); // 6
+// 4. Divida 100 por 4
+var divisao = 100 / 4;
+console.log(divisao); // 25
 
-// Como dividir o peso por 2?
-var numero = +"80" / 2;
-var unidade = "kg ";
-var peso  = numero + unidade; // NaN (Not a Number)
-console.log(peso); // 40
+// 5. Descubra o resto da divisão de 13 por 4
+var resto = 13 % 4;
+console.log(resto); // 1
+
+// 6. Teste uma expressão usando parênteses: (10 + 2) * 3
+var expressao = (10 + 2) * 3;
+console.log(expressao); // 36
+
+// 7. Use incremento e mostre o resultado antes e depois
+var contador = 1;
+console.log(contador++); // 1
+console.log(contador); // 2
+
+// 8. Converta a string "200" em número e some com 50
+var preco = "200";
+var total = +preco + 50;
+console.log(total); // 250
+
+// 9. Verifique se 10 é igual a "10" (duas formas)
+console.log(10 == "10"); // true (comparação não estrita)
+console.log(10 === "10"); // false (comparação estrita)
+
+// 10. Use o operador ternário para verificar se uma idade é maior de idade
+var idade = 17;
+var status = idade >= 18 ? "Maior de idade" : "Menor de idade";
+console.log(status); // Menor de idade
